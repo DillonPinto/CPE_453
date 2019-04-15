@@ -49,7 +49,11 @@ int main(){
         launchPipeline(&cml);
 
     }
-      return EXIT_SUCCESS;
+
+
+
+
+    return EXIT_SUCCESS;
 }
 
 
